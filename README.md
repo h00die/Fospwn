@@ -1,2 +1,2 @@
 # Fospwn
-Foscam Default Login Finder
+Foscam Default Login Finder is to be used for educational purposes only. The tool/code creator is in no way responsible for any misuse of the information provided. All of the information in this repository is meant to help the reader develop a defense  attitude in order to prevent the attacks. In no way should you use the information to cause any kind of damage directly or indirectly.  This code should be utilized for “Ethical hacking”. You implement the information given at your own risk.
